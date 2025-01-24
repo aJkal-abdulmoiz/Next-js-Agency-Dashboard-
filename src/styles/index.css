@@ -1,11 +1,10 @@
-/* Basic resets */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f9f9f9;
 }
 
-/* Responsive classes */
 @media (min-width: 768px) {
   .md\\:hidden {
     display: none !important;
